@@ -1,6 +1,6 @@
 # Lesson 0 - Introduction
 
-#### [YouTube video]() - **Watch this first!**
+#### [YouTube video](https://youtu.be/v_VubQ_NZMc) - **Watch this first!**
 
 ## 0.0 Introduction
 
@@ -25,7 +25,7 @@ your computer.
 
 > As an alternative to the remainder of section 0.1, you can use the import from
 > zip option when creating a new MultiMC instance to import the
-> [MultiMC Instance file]()
+> [MultiMC Instance file](https://github.com/M3L6H/programming-bootcamp/raw/main/resources/MultiMC%20Instance.zip)
 > in the resources folder of this repo
 
 1. Click the create instance button
