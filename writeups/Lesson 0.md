@@ -189,4 +189,4 @@ git push -u origin main
 
 ## Success
 
-You've done it! Time to move on to [Lesson 1]().
+You've done it! Time to move on to [Lesson 1](https://github.com/M3L6H/programming-bootcamp/blob/lesson-1/writeups/Lesson%201.md).
