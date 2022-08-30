@@ -8,3 +8,4 @@ basics of computer programming through the ComputerCraft Minecraft mod.
 ## Lesson Index
 
 - [Lesson 0](https://github.com/M3L6H/programming-bootcamp/blob/lesson-0/writeups/Lesson%200.md)
+- [Lesson 1](https://github.com/M3L6H/programming-bootcamp/blob/lesson-1/writeups/Lesson%201.md)
