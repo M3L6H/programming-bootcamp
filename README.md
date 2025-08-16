@@ -1,11 +1,12 @@
 # Programming Bootcamp
 
-Welcome to the Programming Bootcamp! This is a project seeking to teach the
-basics of computer programming through the ComputerCraft Minecraft mod.
+Welcome to the Programming Bootcamp!
+This is a project seeking to teach the basics of computer science through a few Minecraft mods.
 
-[Link to the YT series here](https://www.youtube.com/watch?v=v_VubQ_NZMc&list=PLh7krookfcXGelOulKalDzkJ23GEk3xJi)
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
 
-## Lesson Index
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Lesson 0](https://github.com/M3L6H/programming-bootcamp/blob/lesson-0/writeups/Lesson%200.md)
-- [Lesson 1](https://github.com/M3L6H/programming-bootcamp/blob/lesson-1/writeups/Lesson%201.md)
+**Table of Contents**
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
